@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Welcome to the BARS Management UI
-name: PSFramework
+name: bars
 description: The project to ease management of MW BAckup, automate database Restores and SQL Server Security for DBAs
